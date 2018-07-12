@@ -3,6 +3,8 @@
 
 sleep 1
 figlet INDOnimous
-sleep 1
+sleep 2
+apt update 
 pkg install libcaca
+sleep 3
 cacafire
